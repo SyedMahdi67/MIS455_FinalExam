@@ -82,3 +82,7 @@ main {
     border: none;
     cursor: pointer;
 }
+
+#show-all-btn:hover {
+    background-color: #e64a19;
+}
