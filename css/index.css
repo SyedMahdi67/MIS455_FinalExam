@@ -66,3 +66,19 @@ main {
 .meal-card h2 {
     margin: 0.5rem 0;
 }
+
+.meal-card p {
+    padding: 0 1rem;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+#show-all-btn {
+    display: block;
+    margin: 1rem auto;
+    padding: 0.5rem 1rem;
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
